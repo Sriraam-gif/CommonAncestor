@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\srira\\Documents\\C# Programs\\Common Ancestor in a Binary Tree\\Common Ancestor in a Binary Tree.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\srira\\Documents\\C# Programs\\Common Ancestor in a Binary Tree\\Common Ancestor in a Binary Tree.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\srira\\Documents\\C# Programs\\Common Ancestor in a Binary Tree\\Common Ancestor in a Binary Tree.csproj",
+        "projectName": "Common Ancestor in a Binary Tree",
+        "projectPath": "C:\\Users\\srira\\Documents\\C# Programs\\Common Ancestor in a Binary Tree\\Common Ancestor in a Binary Tree.csproj",
+        "packagesPath": "C:\\Users\\srira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\srira\\Documents\\C# Programs\\Common Ancestor in a Binary Tree\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\srira\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.4.0-preview-20220726-02, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
